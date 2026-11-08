@@ -1,4 +1,4 @@
-# PassGen
+# Pass Generator
 Gerador de senhas simples, leve e seguro desenvolvido em Python utilizando Tkinter. É possível alterar o comprimento da senha, incluir caracteres especiais, definir um nome de usuário e salvar tudo diretamente em um arquivo de texto no Desktop.
 
 ## Funcionalidades
