@@ -6,7 +6,7 @@ import os
 class PassGen:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Gerador de Senhas | Pass Gen | V 0.4")
+        self.root.title("Pass Generator V 0.4")
         self.root.geometry("450x420")
         self.root.configure(bg="black")
 
